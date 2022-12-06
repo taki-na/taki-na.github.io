@@ -1,6 +1,5 @@
 User-agent: *
 
-# 不允许访问的内容
 Disallow: /img/
 Disallow: /css/
 Disallow: /js/
